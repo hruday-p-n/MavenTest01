@@ -5,9 +5,7 @@
   <artifactId>MavenTest01</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  
-  
-  <name>MavenTest01</name>
+    <name>MavenTest01</name>
   <url>http://maven.apache.org</url>
   <properties>
 <maven.compiler.source>11</maven.compiler.source>
